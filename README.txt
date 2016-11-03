@@ -1,6 +1,11 @@
 Improving Data Transparency in Clinical Trials Using Blockchain Smart Contracts
 ===============================================================================
 
+Paper
+=====
+
+https://f1000research.com/articles/5-2541/v1
+
 4th October 2016 
 
 Authors: Timothy Nugent, David Upton and Mihai Cimpoesu
